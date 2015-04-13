@@ -1,0 +1,2 @@
+# 18-348TermProjectTom-Yiru
+We are implementing a simple version of Guitar Hero with at most three notes at the same time. Users press corresponding buttons when notes come on the bar LEDs to score. Each LED bar is a column and every 3 LEDs are a row. LEDs on the same row has the same brightness. And the potentiometer controls the speed of note “scrolling” on its LED column. The game stops at 2mins.
